@@ -1,14 +1,13 @@
-group = "app.template"
+group = "app.wakeoldhyphen"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "X Minimal Patches"
+        description = "Custom Morphe patches for X"
+        source = "git@github.com:Wake-Old-Hyphen/x-minimal-patches.git"
+        author = "Wake-Old-Hyphen"
+        contact = "none"
+        website = "none"
         license = "GPLv3"
     }
 }
